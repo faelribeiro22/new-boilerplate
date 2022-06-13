@@ -53,8 +53,7 @@
   },
   "lint-staged": {
     "src/**/*.+(ts|tsx)": [
-      "eslint --fix",
-      "yarn test  --findRelatedTests --bail"
+      "eslint --fix"
     ]
   }
 }
