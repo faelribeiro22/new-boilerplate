@@ -1,6 +1,9 @@
 import * as S from './styles'
 
-const Main = ({ title = 'React Avançado', description = 'Typescript' }) => (
+const Main = ({
+  title = 'React Avançado, novo boilerplate',
+  description = 'Typescript'
+}) => (
   <S.Wrapper>
     <S.Logo
       src="/img/logo.svg"
