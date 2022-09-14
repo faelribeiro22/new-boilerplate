@@ -22,13 +22,13 @@
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.13",
+    "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
     "@babel/preset-typescript": "^7.18.6",
     "@storybook/addon-essentials": "^6.5.9",
     "@storybook/builder-webpack5": "^6.5.9",
     "@storybook/manager-webpack5": "^6.5.9",
-    "@storybook/react": "^6.5.9",
+    "@storybook/react": "^6.5.12",
     "@storybook/testing-library": "^0.0.13",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
