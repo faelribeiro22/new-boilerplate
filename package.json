@@ -39,7 +39,7 @@
     "@types/styled-components": "^5.1.26",
     "babel-jest": "^29.2.1",
     "eslint": "8.26.0",
-    "eslint-config-next": "12.3.1",
+    "eslint-config-next": "13.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-storybook": "^0.6.6",
     "husky": "^8.0.0",
