@@ -6068,7 +6068,7 @@ __metadata:
     lint-staged: ">=13"
     next: 13.1.6
     next-pwa: ^5.5.5
-    plop: ^3.1.1
+    plop: ^3.1.2
     prettier: 2.8.5
     react: 18.2.0
     react-dom: 18.2.0
@@ -13551,9 +13551,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-plop@npm:^0.31.0":
-  version: 0.31.0
-  resolution: "node-plop@npm:0.31.0"
+"node-plop@npm:^0.31.1":
+  version: 0.31.1
+  resolution: "node-plop@npm:0.31.1"
   dependencies:
     "@types/inquirer": ^8.2.1
     change-case: ^4.1.2
@@ -13568,7 +13568,7 @@ __metadata:
     resolve: ^1.20.0
     title-case: ^3.0.3
     upper-case: ^2.0.2
-  checksum: 0ba41c9e950e246e24d5e8409c6c978485cf8c5e58ff3b1f61e7bb6bf50d6ae9633a5b876497f5ee4c101044ee77a78e31f3dff2ed577d6140f7acf27c7e57c2
+  checksum: be25e05cdf8c73d23724d7dbab6df4a16dfb4bc77036894fb7c0bf72b4e54cb669be331ee6da434e9b8c86f5f0f86e78879e3d652f74e38027729578d93163b6
   languageName: node
   linkType: hard
 
@@ -14532,21 +14532,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"plop@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "plop@npm:3.1.1"
+"plop@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "plop@npm:3.1.2"
   dependencies:
     "@types/liftoff": ^4.0.0
     chalk: ^5.0.1
     interpret: ^2.2.0
     liftoff: ^4.0.0
     minimist: ^1.2.6
-    node-plop: ^0.31.0
+    node-plop: ^0.31.1
     ora: ^6.0.1
     v8flags: ^4.0.0
   bin:
     plop: bin/plop.js
-  checksum: 3ef13673107397c389fb1cb861215a60317a67622121b98221d1f5d448f289a25e9b1f4bb9cbdcb91f28e7339c7583cd21a9738c2bee92602916ede6c04aa848
+  checksum: 97ce8574f4c3921bdc931b5b0b801d1f336372c19e62aaf071483c77e6cfd52eb8d1d6fe5ca0c85482cbf7d5d7af8f1f14de609f3666a525ccd7e571e49e4704
   languageName: node
   linkType: hard
 
