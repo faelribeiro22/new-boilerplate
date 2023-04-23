@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
-    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-env": "^7.21.4",
     "@babel/preset-typescript": "^7.21.4",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/builder-webpack5": "^6.5.16",
