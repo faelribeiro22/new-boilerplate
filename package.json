@@ -26,7 +26,7 @@
     "@babel/preset-env": "^7.21.5",
     "@babel/preset-typescript": "^7.21.4",
     "@storybook/addon-essentials": "^7.0.9",
-    "@storybook/builder-webpack5": "^6.5.16",
+    "@storybook/builder-webpack5": "^7.0.9",
     "@storybook/manager-webpack5": "^6.5.16",
     "@storybook/react": "^6.5.16",
     "@storybook/testing-library": "^0.1.0",
