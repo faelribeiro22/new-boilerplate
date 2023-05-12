@@ -2,7 +2,8 @@ import * as S from './styles'
 
 const Main = ({
   title = 'React Avançado, novo boilerplate',
-  description = 'Typescript'
+  description = 'Typescript',
+  valid = false
 }) => (
   <S.Wrapper>
     <S.Logo
