@@ -1,9 +1,8 @@
-import * as S from './styles'
+import * as S from "./styles";
 
 const Main = ({
-  title = 'React Avançado, novo boilerplate',
-  description = 'Typescript',
-  valid = false
+  title = "React Avançado, novo boilerplate",
+  description = "Typescript",
 }) => (
   <S.Wrapper>
     <S.Logo
@@ -17,5 +16,6 @@ const Main = ({
       alt="Um desenvolvedor de frente para a tela com código"
     />
   </S.Wrapper>
-)
-export default Main
+);
+
+export default Main;
