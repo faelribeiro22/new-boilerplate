@@ -1659,9 +1659,9 @@
   version "13.4.4"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-13.4.4.tgz#46b620f6bef97fe67a1566bf570dbb791d40c50a"
 
-"@next/eslint-plugin-next@13.4.4":
-  version "13.4.4"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.4.4.tgz#0df2f699e61b97c65035f87f54795f799e12fead"
+"@next/eslint-plugin-next@13.4.6":
+  version "13.4.6"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.4.6.tgz#6a291305226b3f762fdbc01e123efadeb63e5aaf"
   dependencies:
     glob "7.1.7"
 
@@ -4972,11 +4972,11 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-next@13.4.4:
-  version "13.4.4"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-13.4.4.tgz#95356e96f3796ad0587fa2aaa51ec4a81e71cedc"
+eslint-config-next@13.4.6:
+  version "13.4.6"
+  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-13.4.6.tgz#ccccf5dad45b23a56418d66caad5339116297308"
   dependencies:
-    "@next/eslint-plugin-next" "13.4.4"
+    "@next/eslint-plugin-next" "13.4.6"
     "@rushstack/eslint-patch" "^1.1.3"
     "@typescript-eslint/parser" "^5.42.0"
     eslint-import-resolver-node "^0.3.6"
