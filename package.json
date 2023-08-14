@@ -27,7 +27,7 @@
     "@babel/preset-typescript": "^7.22.5",
     "@storybook/addon-essentials": "^7.0.12",
     "@storybook/nextjs": "^7.0.22",
-    "@storybook/react": "^7.0.10",
+    "@storybook/react": "^7.2.3",
     "@storybook/testing-library": "^0.1.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
